@@ -1,9 +1,9 @@
-# **Execute in PowerShell:**
+# **PowerShell:**
 Compile:
 ```
 javac BusReservationSystem.java
 ```
-Execute:
+Run:
 ```
 java -cp ".;mysql-connector-j-26.10.0.jar" BusReservationSystem
 ```
